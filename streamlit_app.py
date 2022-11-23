@@ -25,4 +25,5 @@ my_fruit_list = my_fruit_list.set_index('Fruit')
 my_calories_list = my_calories_list.set_index('calories')
 
 streamlit.multiselect("Please choose fruits:", list(my_fruit_list.index))
+streamlit.multiselect("Please choose calories:", list(my_calories_list.index))
 streamlit.dataframe(my_fruit_list)
