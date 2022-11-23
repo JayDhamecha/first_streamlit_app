@@ -11,6 +11,6 @@ streamlit.title('We are welcoming you!!')
 
 
 streamlit.header('Breakfast Menu')
-streamlit.text('Tea/Coffee')
-streamlit.text('Bread with butter and Oragano')
-streamlit.text('Oragano with bread and butter')
+streamlit.text('🥣 Tea/Coffee')
+streamlit.text('🥗 Bread with butter and Avocado')
+streamlit.text('🥑 Avocado with bread and butter')
