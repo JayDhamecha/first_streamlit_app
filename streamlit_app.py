@@ -18,4 +18,4 @@ streamlit.text('🥑 Avocado with bread and butter')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
-Import pandas
+import pandas
