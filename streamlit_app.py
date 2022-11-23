@@ -8,3 +8,9 @@ streamlit.title('Figurative Analytics Pvt Ltd an Ahmedabad based Analytical comp
 streamlit.header('Hey!!')
 streamlit.text('How are you?')
 streamlit.title('We are welcoming you!!')
+
+
+streamlit.header('Breakfast Menu')
+streamlit.text('Tea/Coffee')
+streamlit.text('Bread with butter and Oragano')
+streamlit.text('Oragano with bread and butter')
